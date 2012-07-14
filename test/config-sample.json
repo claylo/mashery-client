@@ -1,0 +1,14 @@
+{
+    "sandbox": {
+        "host": "api.sandbox.mashery.com",
+        "path": "/v2/json-rpc/[YOUR CLIENT ID]",
+        "key": "[YOUR KEY]",
+        "secret": "[YOUR SECRET]"
+    },
+    "live": {
+        "host": "api.mashery.com",
+        "path": "/v2/json-rpc/[YOUR CLIENT ID]",
+        "key": "[YOUR KEY]",
+        "secret": "[YOUR SECRET]"
+    }
+}
